@@ -14,4 +14,10 @@ I like building backend systems that are clean and actually work. Currently look
 
 Open to opportunities in NL or EU.
 
-[LinkedIn](https://linkedin.com/in/musaabazawi) • [Portfolio](https://musaabazawi.github.io) • musaabazawi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/musaabazawi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://musaabazawi.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:musaabazawi@gmail.com)
+
+---
+
+*"First, solve the problem. Then, write the code."*
